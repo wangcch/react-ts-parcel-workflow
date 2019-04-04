@@ -1,0 +1,21 @@
+{
+  "name": "react-ts-parcel-workflow",
+  "version": "0.1.0",
+  "description": "react project template with typescript and parcel",
+  "main": "public/index.html",
+  "scripts": {
+    "start": "parcel ./public/index.html"
+  },
+  "author": "wangcch",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "@types/react": "^16.8.12",
+    "@types/react-dom": "^16.8.3",
+    "parcel-bundler": "^1.12.3",
+    "typescript": "^3.4.1"
+  }
+}
