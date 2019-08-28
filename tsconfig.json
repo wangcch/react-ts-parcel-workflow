@@ -2,10 +2,10 @@
   "compilerOptions": {
     "allowSyntheticDefaultImports": true,
     "moduleResolution": "node",
-    "target": "es2015",
+    "target": "es5",
     "module": "esnext",
     "strict": true,
     "jsx": "react",
-    "lib": ["dom", "es2016"]
+    "lib": ["dom", "esnext"]
   }
 }

@@ -1,6 +1,6 @@
 {
   "name": "react-ts-parcel-workflow",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "react project template with typescript and parcel",
   "main": "public/index.html",
   "scripts": {
